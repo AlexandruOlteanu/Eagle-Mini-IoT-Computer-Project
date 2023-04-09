@@ -1,0 +1,18 @@
+<Copyright Alexandru Olteanu, grupa 332CA, alexandruolteanu2001@gmail.com>
+
+    Proiectul a fost unul interesant, nu regret ca am invatat cat de cat cum 
+se proiecteaza o placuta. Schema a fost relativ usor de construit, doar 
+unele componente precum Pinhead-ul cu 6 pini au trebuit luate din alte 
+biblioteci, In rest procesul a mers destuld e ok.
+    La construirea board-ului a fost mai mult de lucru, a durat ceva pana
+am pus dimensiunile placutei, unde vin gaurile si usb-ul ce iese afara, apoi
+punerea strategica a componentelor incat:
+    a) sa incapa
+    b) condensatoarele sa fie apropiate de pinii majoritatii componentelor la 
+care sunt conectati
+    c) Fiecare rezistenta sa fie pusa cat mai central intre componentele legate
+la ea.
+    In continuarea, la tragerea cablurilor a fost nevoie de mai multe rectificari
+pana sa ajung la varianta finala, am avut diverse probleme de overlap, fire care
+nu mai mergeau trase din cauza altora, etc.
+    Per total, o tema faina dar muncitoreasca, thx!
